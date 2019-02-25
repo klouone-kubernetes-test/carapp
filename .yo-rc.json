@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kloudone.cars"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "microservice",
+    "baseName": "carsapp",
+    "packageName": "com.kloudone.cars",
+    "packageFolder": "com/kloudone/cars",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTc2YmUxODY5ZmVmY2EzYjM1YjBiZjg5NTYyNTY3OTYyMjkyOTViYzcyNzA1OWRmZjJhNjIyZDFhZTBhOWFkMTQyMGRhYzc3YzQwYzJkODllNDdjM2RkOWU0NGI0NzFiNGJhODYxOWY1NGQyYWQ1ZDcyMmRiODYzODAxMjE0MDM=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
